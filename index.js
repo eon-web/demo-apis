@@ -1,4 +1,4 @@
-const eon = require('eonjs')(8080);
+const eon = require('eonjs')();
 
 // Constants
 const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
