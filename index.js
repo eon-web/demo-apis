@@ -1,7 +1,7 @@
 const eon = require('eonjs')();
 
 // Constants
-const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+const days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
 const colors = ['yellowgreen', 'brightgreen', 'yellow', 'orange', 'blue', 'blueviolet', 'ff69b4'];
 
 eon.
